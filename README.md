@@ -46,13 +46,11 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Angular](https://img.shields.io/badge/angular-0D1117?style=for-the-badge&logo=angular&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Ionic](https://img.shields.io/badge/Ionic-0D1117?style=for-the-badge&logo=Ionic&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=Kotlin&logoColor=1572B6&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
 <br>
